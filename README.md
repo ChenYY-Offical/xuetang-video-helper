@@ -2,6 +2,9 @@
 
 一个用于学堂在线页面的 Tampermonkey 脚本，主要用来优化日常看课时的视频播放体验。
 
+##Greasy Fork链接
+https://greasyfork.org/zh-CN/scripts/575026-%E5%AD%A6%E5%A0%82%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E5%A2%9E%E5%BC%BA%E5%8A%A9%E6%89%8B/code
+
 ## 目前支持
 
 - 倍速调节
