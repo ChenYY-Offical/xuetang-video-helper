@@ -21,6 +21,10 @@ https://greasyfork.org/zh-CN/scripts/575026-%E5%AD%A6%E5%A0%82%E5%9C%A8%E7%BA%BF
 3. 打开学堂在线课程页面
 4. 进入视频页面后脚本会自动生效
 
+##示例图片
+<img width="473" height="759" alt="371be4bc-6bef-4d19-832a-d7d63ec3b490" src="https://github.com/user-attachments/assets/4c906255-7d8c-4baf-86c6-4697ea52efa8" />
+
+
 ## 当前说明
 
 目前这个脚本主要还是以视频相关功能为主，平时看课用起来会方便一些。
